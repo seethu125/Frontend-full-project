@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\cart",
+    "\\src\\home",
+    "\\src\\navBar",
+    "\\src\\product",
+    "\\src\\providers",
+    "\\src\\register",
+    "\\src\\routes"
+  ],
+  "SelectedNode": "\\src\\providers\\ProductContext.js",
+  "PreviewInSolutionExplorer": false
+}
